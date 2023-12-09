@@ -14,7 +14,7 @@ Clone the repository:
 git clone https://github.com/nazifansari/Landing-Page.git
 
 ## Demo
-You can view a live demo of the landing-Page (click here).
+You can view a live demo of the landing-Page [click here](https://nazifansari.github.io/Landing-Page/).
 
 ## License
 This Landing page Project is licensed under the MIT License.
